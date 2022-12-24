@@ -1,0 +1,472 @@
+{
+  "tpc.welcome": {
+     "sounds":  [
+         "tpc/misc/welcome"
+      ]
+  },
+  "tpc.ch.welcome" :   {
+    "sounds": [
+       "tpc/ch/misc/welcome"
+      ]
+  },
+  "tpc.set_spawn" :   {
+    "sounds": [
+       "tpc/misc/set_spawn"
+      ]
+  },
+  "tpc.ch.set_spawn" :   {
+    "sounds": [
+       "tpc/ch/misc/set_spawn"
+      ]
+  },
+  "tpc.warn_button" :   {
+    "sounds": [
+       "tpc/misc/warn_button"
+      ]
+  },
+  "tpc.ch.warn_button" :   {
+    "sounds": [
+       "tpc/ch/misc/warn_button"
+      ]
+  },
+  "tpc.separate" :   {
+    "sounds": [
+       "tpc/misc/separate"
+      ]
+  },
+  "tpc.ch.separate" :   {
+    "sounds": [
+       "tpc/ch/misc/separate"
+      ]
+  },
+  "tpc.applause" :   {
+    "sounds": [
+       "tpc/misc/applause"
+      ]
+  },
+  "tpc.ding" :   {
+    "sounds": [
+       "tpc/misc/ding"
+      ]
+  },
+  "tpc.system.acs_detect" :   {
+    "sounds": [
+       "tpc/system/acs_detect"
+      ]
+  },
+  "tpc.ch.system.acs_detect" :   {
+    "sounds": [
+       "tpc/ch/system/acs_detect"
+      ]
+  },
+  "tpc.system.ads_off" :   {
+    "sounds": [
+       "tpc/system/ads_off"
+      ]
+  },
+  "tpc.ch.system.ads_off" :   {
+    "sounds": [
+       "tpc/ch/system/ads_off"
+      ]
+  },
+  "tpc.system.ads_on" :   {
+    "sounds": [
+       "tpc/system/ads_on"
+      ]
+  },
+  "tpc.ch.system.ads_on" :   {
+    "sounds": [
+       "tpc/ch/system/ads_on"
+      ]
+  },
+  "tpc.system.aps_off" :   {
+    "sounds": [
+       "tpc/system/aps_off"
+      ]
+  },
+  "tpc.ch.system.aps_off" :   {
+    "sounds": [
+       "tpc/ch/system/aps_off"
+      ]
+  },
+  "tpc.system.aps_on" :   {
+    "sounds": [
+       "tpc/system/aps_on"
+      ]
+  },
+  "tpc.ch.system.aps_on" :   {
+    "sounds": [
+       "tpc/ch/system/aps_on"
+      ]
+  },
+  "tpc.system.ccws_off" :   {
+    "sounds": [
+       "tpc/system/ccws_off"
+      ]
+  },
+  "tpc.ch.system.ccws_off" :   {
+    "sounds": [
+       "tpc/ch/system/ccws_off"
+      ]
+  },
+  "tpc.system.ccws_on" :   {
+    "sounds": [
+       "tpc/system/ccws_on"
+      ]
+  },
+  "tpc.ch.system.ccws_on" :   {
+    "sounds": [
+       "tpc/ch/system/ccws_on"
+      ]
+  },
+  "tpc.system.os" :   {
+    "sounds": [
+       "tpc/system/os"
+      ]
+  },
+  "tpc.ch.system.os" :   {
+    "sounds": [
+       "tpc/ch/system/os"
+      ]
+  },
+  "tpc.system.ts_off" :   {
+    "sounds": [
+       "tpc/system/ts_off"
+      ]
+  },
+  "tpc.ch.system.ts_off" :   {
+    "sounds": [
+       "tpc/ch/system/ts_off"
+      ]
+  },
+  "tpc.system.ts_on" :   {
+    "sounds": [
+       "tpc/system/ts_on"
+      ]
+  },
+  "tpc.ch.system.ts_on" :   {
+    "sounds": [
+       "tpc/ch/system/ts_on"
+      ]
+  },
+  "tpc.c1" :   {
+    "sounds": [
+       "tpc/challenge/c1"
+      ]
+  },
+  "tpc.ch.c1" :   {
+    "sounds": [
+       "tpc/ch/challenge/c1"
+      ]
+  },
+  "tpc.c2" :   {
+    "sounds": [
+       "tpc/challenge/c2"
+      ]
+  },
+  "tpc.ch.c2" :   {
+    "sounds": [
+       "tpc/ch/challenge/c2"
+      ]
+  },
+  "tpc.c3" :   {
+    "sounds": [
+       "tpc/challenge/c3"
+      ]
+  },
+  "tpc.ch.c3" :   {
+    "sounds": [
+       "tpc/ch/challenge/c3"
+      ]
+  },
+  "tpc.c4" :   {
+    "sounds": [
+       "tpc/challenge/c4"
+      ]
+  },
+  "tpc.ch.c4" :   {
+    "sounds": [
+       "tpc/ch/challenge/c4"
+      ]
+  },
+  "tpc.c5" :   {
+    "sounds": [
+       "tpc/challenge/c5"
+      ]
+  },
+  "tpc.ch.c5" :   {
+    "sounds": [
+       "tpc/ch/challenge/c5"
+      ]
+  },
+  "tpc.c6" :   {
+    "sounds": [
+       "tpc/challenge/c6"
+      ]
+  },
+  "tpc.ch.c6" :   {
+    "sounds": [
+       "tpc/ch/challenge/c6"
+      ]
+  },
+  "tpc.c7" :   {
+    "sounds": [
+       "tpc/challenge/c7"
+      ]
+  },
+  "tpc.ch.c7" :   {
+    "sounds": [
+       "tpc/ch/challenge/c7"
+      ]
+  },
+  "tpc.c8" :   {
+    "sounds": [
+       "tpc/challenge/c8"
+      ]
+  },
+  "tpc.ch.c8" :   {
+    "sounds": [
+       "tpc/ch/challenge/c8"
+      ]
+  },
+  "tpc.c9" :   {
+    "sounds": [
+       "tpc/challenge/c9"
+      ]
+  },
+  "tpc.ch.c9" :   {
+    "sounds": [
+       "tpc/ch/challenge/c9"
+      ]
+  },
+  "tpc.c10" :   {
+    "sounds": [
+       "tpc/challenge/c10"
+      ]
+  },
+  "tpc.ch.c10" :   {
+    "sounds": [
+       "tpc/ch/challenge/c10"
+      ]
+  },
+  "tpc.c11" :   {
+    "sounds": [
+       "tpc/challenge/c11"
+      ]
+  },
+  "tpc.ch.c11" :   {
+    "sounds": [
+       "tpc/ch/challenge/c11"
+      ]
+  },
+  "tpc.c12" :   {
+    "sounds": [
+       "tpc/challenge/c12"
+      ]
+  },
+  "tpc.ch.c12" :   {
+    "sounds": [
+       "tpc/ch/challenge/c12"
+      ]
+  },
+  "tpc.c13" :   {
+    "sounds": [
+       "tpc/challenge/c13"
+      ]
+  },
+  "tpc.ch.c13" :   {
+    "sounds": [
+       "tpc/ch/challenge/c13"
+      ]
+  },
+  "tpc.c14" :   {
+    "sounds": [
+       "tpc/challenge/c14"
+      ]
+  },
+  "tpc.ch.c14" :   {
+    "sounds": [
+       "tpc/ch/challenge/c14"
+      ]
+  },
+  "tpc.c15" :   {
+    "sounds": [
+       "tpc/challenge/c15"
+      ]
+  },
+  "tpc.ch.c15" :   {
+    "sounds": [
+       "tpc/ch/challenge/c15"
+      ]
+  },
+  "tpc.c16" :   {
+    "sounds": [
+       "tpc/challenge/c16"
+      ]
+  },
+  "tpc.ch.c16" :   {
+    "sounds": [
+       "tpc/ch/challenge/c16"
+      ]
+  },
+  "tpc.c16.potion" :   {
+    "sounds": [
+       "tpc/challenge/c16_potion"
+      ]
+  },
+  "tpc.ch.c16.potion" :   {
+    "sounds": [
+       "tpc/ch/challenge/c16_potion"
+      ]
+  },
+  "tpc.c17" :   {
+    "sounds": [
+       "tpc/challenge/c17"
+      ]
+  },
+  "tpc.ch.c17" :   {
+    "sounds": [
+       "tpc/ch/challenge/c17"
+      ]
+  },
+  "tpc.c18" :   {
+    "sounds": [
+       "tpc/challenge/c18"
+      ]
+  },
+  "tpc.ch.c18" :   {
+    "sounds": [
+       "tpc/ch/challenge/c18"
+      ]
+  },
+  "tpc.c18.tip1" :   {
+    "sounds": [
+       "tpc/challenge/c18_tip1"
+      ]
+  },
+  "tpc.ch.c18.tip1" :   {
+    "sounds": [
+       "tpc/ch/challenge/c18_tip1"
+      ]
+  },
+  "tpc.c18.tip2" :   {
+    "sounds": [
+       "tpc/challenge/c18_tip2"
+      ]
+  },
+  "tpc.ch.c18.tip2" :   {
+    "sounds": [
+       "tpc/ch/challenge/c18_tip2"
+      ]
+  },
+  "tpc.c18.tip3" :   {
+    "sounds": [
+       "tpc/challenge/c18_tip3"
+      ]
+  },
+  "tpc.ch.c18.tip3" :   {
+    "sounds": [
+       "tpc/ch/challenge/c18_tip3"
+      ]
+  },
+  "tpc.c19" :   {
+    "sounds": [
+       "tpc/challenge/c19"
+      ]
+  },
+  "tpc.ch.c19" :   {
+    "sounds": [
+       "tpc/ch/challenge/c19"
+      ]
+  },
+  "tpc.c20" :   {
+    "sounds": [
+       "tpc/challenge/c20"
+      ]
+  },
+  "tpc.ch.c20" :   {
+    "sounds": [
+       "tpc/ch/challenge/c20"
+      ]
+  },
+  "tpc.c21" :   {
+    "sounds": [
+       "tpc/challenge/c21"
+      ]
+  },
+  "tpc.ch.c21" :   {
+    "sounds": [
+       "tpc/ch/challenge/c21"
+      ]
+  },
+  "tpc.c22" :   {
+    "sounds": [
+       "tpc/challenge/c22"
+      ]
+  },
+  "tpc.ch.c22" :   {
+    "sounds": [
+       "tpc/ch/challenge/c22"
+      ]
+  },
+  "tpc.c23" :   {
+    "sounds": [
+       "tpc/challenge/c23"
+      ]
+  },
+  "tpc.ch.c23" :   {
+    "sounds": [
+       "tpc/ch/challenge/c23"
+      ]
+  },
+  "tpc.c24" :   {
+    "sounds": [
+       "tpc/challenge/c24"
+      ]
+  },
+  "tpc.ch.c24" :   {
+    "sounds": [
+       "tpc/ch/challenge/c24"
+      ]
+  },
+  "tpc.c25" :   {
+    "sounds": [
+       "tpc/challenge/c25"
+      ]
+  },
+  "tpc.ch.c25" :   {
+    "sounds": [
+       "tpc/ch/challenge/c25"
+      ]
+  },
+  "tpc.c26" :   {
+    "sounds": [
+       "tpc/challenge/c26"
+      ]
+  },
+  "tpc.ch.c26" :   {
+    "sounds": [
+       "tpc/ch/challenge/c26"
+      ]
+  },
+  "tpc.c27" :   {
+    "sounds": [
+       "tpc/challenge/c27"
+      ]
+  },
+  "tpc.ch.c27" :   {
+    "sounds": [
+       "tpc/ch/challenge/c27"
+      ]
+  },
+  "tpc.c28" :   {
+    "sounds": [
+       "tpc/challenge/c28"
+      ]
+  },
+  "tpc.ch.c28" :   {
+    "sounds": [
+       "tpc/ch/challenge/c28"
+      ]
+  }
+}
